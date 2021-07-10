@@ -1,0 +1,2 @@
+# qubix
+single page website
